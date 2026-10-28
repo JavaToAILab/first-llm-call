@@ -1,6 +1,6 @@
 # first-llm-call
 
-Code for **Java to AI #3: [Your First LLM Call From Java, Written Like Production Code](https://medium.com/@abhinav.neo/list/java-to-ai-70943ef97ee9)**.
+Code for **Java to AI #3: [Your First LLM Call From Java, Written Like Production Code](https://medium.com/@abhinav.neo/your-first-llm-call-from-java-written-like-production-code-bfc809df2a61)**.
 
 One LLM call, with no AI framework: Java 21's built-in `HttpClient`, Jackson, and a local model through Ollama. The point is that everything that makes the call production-grade (timeouts, retries, error classification, token tracking) is ordinary engineering.
 
