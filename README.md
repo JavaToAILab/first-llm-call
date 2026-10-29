@@ -2,6 +2,8 @@
 
 Code for **Java to AI #3: [Your First LLM Call From Java, Written Like Production Code](https://medium.com/@abhinav.neo/your-first-llm-call-from-java-written-like-production-code-bfc809df2a61)**.
 
+> **This code now lives on in [IncidentPilot](https://github.com/JavaToAILab/incident-pilot)**, the real-time AI incident copilot built across the Java to AI series, as its `llm-client` module (tag `article-03`). This repo stays as published for readers of Article 3.
+
 One LLM call, with no AI framework: Java 21's built-in `HttpClient`, Jackson, and a local model through Ollama. The point is that everything that makes the call production-grade (timeouts, retries, error classification, token tracking) is ordinary engineering.
 
 ## What's inside
